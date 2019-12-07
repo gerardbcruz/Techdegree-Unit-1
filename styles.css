@@ -111,7 +111,7 @@ header .profile-image:hover {
   font-size: 1.1em;
 }
 
-.card {
+article {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -120,7 +120,7 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   transition: all .5s;
 }
-.card:hover {
+article:hover {
   border-color: #4d80e4;
 }
 
